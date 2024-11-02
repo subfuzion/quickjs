@@ -1,0 +1,13 @@
+.obj/
+examples/hello
+examples/hello_module
+hello
+hello.c
+libquickjs.a
+libquickjs.lto.a
+qjs
+qjsc
+qjscalc
+qjscalc.c
+repl.c
+run-test262
